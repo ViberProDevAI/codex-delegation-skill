@@ -105,7 +105,7 @@ Found a rationalization loophole? Encountered a new pressure scenario? PRs welco
 
 ## 📄 License
 
-MIT
+[Unlicense](LICENSE) - Public Domain
 
 ## 🙏 Credits
 
